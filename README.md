@@ -1,4 +1,4 @@
-# weak_supervision_for_da_hate
+# Weak Supervision for Danish Hatespeech
 A weakly supervised classifier for Danish Hatespeech
 
 NB: 
